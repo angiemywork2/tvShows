@@ -1,0 +1,30 @@
+/*BODY*/
+/*FONTS
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+Red: #8A0D00
+Gold: #FCEF3F
+*/
+
+
+body {
+	
+	height: 100%;
+	background: url('BigBangTheoryPic.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  
+	
+	color:black;
+	font-style: italic;
+	
+}
+
+/*Cover*/
+
+#cover {
+	background-image: url('..images/TheBigBangTheoryCast.jpg');
+
+
+}
